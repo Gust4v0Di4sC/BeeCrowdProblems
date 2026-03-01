@@ -13,9 +13,9 @@ Para garantir que o código seja aceito pelo juiz online, todos os exercícios s
 
 | ID | Nome do Problema | Categoria | Solução |
 |:---:|:---|:---:|:---:|
-| 1001 | Extremamente Básico | Iniciante | [Ver Código](./1001.cs) |
-| 1002 | Área do Círculo | Iniciante | [Ver Código](./1002.cs) |
-| 1010 | Cálculo Simples | Iniciante | [Ver Código](./1010.cs) |
+| 1001 | Extremamente Básico | Iniciante | [Ver Código](./Beginner/1001.cs) |
+| 1002 | Área do Círculo | Iniciante | [Ver Código](./Beginner/1002.cs) |
+| 1010 | Cálculo Simples | Iniciante | [Ver Código](./Beginner/1010.cs) |
 
 > **Dica:** Para rodar os códigos localmente, certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instalado em sua máquina.
 
